@@ -41,7 +41,7 @@
     background-image: url(s2.JPG);
     width: 97%;
     background-color:black;
-    height: 600px; /* Adjust the height as needed */
+    height: 800px; /* Adjust the height as needed */
     background-size: cover; /* Make the image cover the entire container */
     background-position: center; /* Center the image within the container */
     background-repeat: no-repeat; 
