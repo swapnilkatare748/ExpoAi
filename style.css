@@ -38,7 +38,7 @@
 
 .my_photo{
     color: white;
-/*     background-image: url(s2.JPG); */
+    background-image: url(s2.JPG);
     width: 97%;
     background-color:black;
     height: 600px; /* Adjust the height as needed */
